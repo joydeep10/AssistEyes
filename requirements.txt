@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+streamlit
+pydantic
+python-dotenv
+google-generativeai
+pytesseract
+pillow
+pyaudio
+gtts
+playsound
+SpeechRecognition
+pydub
+googletrans
+
+
